@@ -1,4 +1,5 @@
 # Vacula Alexandr
+<ul>
 <li> axxx82@gmai.com, viber, telegram: +37377919707; Discord: leksandr82.</li>
 <li>I want to master front-end JS, react as soon as possible and start practicing real projects as quickly as possible. I am ready to devote many hours a day to study and work, communication skills are at the highest level.</li>
 <li>Learned the basics Html, Css, JS, I have experience with Git.</li>
@@ -33,5 +34,6 @@ function duplicateCount(text){
     <li>"JavaScript c Нуля - Курс для начинающих с практикой"[2023]<a>https://www.youtube.com/watch?v=fcMcf_4PjfI&t=1480s</a></li></ol>
     </li>
 <li> English level B1 , I had communication experience and studied English at a language school in Malta.</li>
+</ul>
 
 
